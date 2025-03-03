@@ -1,0 +1,28 @@
+nav {
+  font-family: "Poppins", sans-serif;
+  background-color: #333;
+  padding: 1rem;
+}
+
+nav-link {
+  font-size: 3em;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: 0.3s ease all;
+}
+
+nav a:hover {
+  color: rgb(214, 214, 214);
+}

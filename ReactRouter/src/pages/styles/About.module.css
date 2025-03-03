@@ -1,0 +1,14 @@
+.container {
+  color: white;
+  background-color: #242424;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: "Poppins", sans-serif;
+}

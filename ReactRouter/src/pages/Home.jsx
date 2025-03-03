@@ -1,6 +1,8 @@
+import './styles/Services.module.css';
+
 function Home() {
   return (
-    <div>
+    <div className="container">
       <h1>Home</h1>
     </div>
   );
