@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="nav-bar" style={{ backgroundColor: bgColor, background: bgColor, fontColor: textColor }}>
+      <div className="nav-bar" style={{ background: bgColor, fontColor: textColor }}>
         <nav className="nav">
           <ul className="nav-list">
             <Link to="/Home" className="nav-link">
