@@ -11,6 +11,7 @@ function App() {
     {
       path: "/",
       element: <Navbar />,
+      errorElement: <div>404 not found</div>
     },
     {
       path: "/Home",
