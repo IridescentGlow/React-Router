@@ -1,6 +1,7 @@
 .container {
   color: white;
   background-color: #242424;
+  box-sizing: border-box;
 }
 
 h1 {
